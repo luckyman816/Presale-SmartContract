@@ -24,10 +24,6 @@
 If you **need for deployment and use of this smart contract**, you can find my contacts on my GitHub profile page.
 ___If you contact me on Telegram, write as first message that you have found my contact on GitHub or you will automatically blocked___.
 
-# 🕵 Are you looking for the Dapp Front-end of this smart contract?
-Take a look to [this project](https://github.com/R3D4NG3L/PresaleSmartContract)!
-![](https://github.com/R3D4NG3L/PresaleDapp/raw/main/public/images/gifs/Overview.gif)
-
 # 🔎 Purpose
 ## TokenPreSale.sol
 This repository offers a smart contract to manage seed sales / pre-sales. It is written in Solidity for EVM blockchains (e.g. Ethereum, BSC, Cronos, ...).
